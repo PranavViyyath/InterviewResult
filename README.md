@@ -10,3 +10,4 @@
 
 
 ### Time allocated: 1 hr (if need extra time please reach out to the HR who is taking your interview)
+# InterviewResult
